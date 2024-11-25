@@ -1,0 +1,235 @@
+{"level":"info","message":{"body":{"mail":"karthik@gmail.com","password":"Karthik@123"},"method":"POST","status":401,"timeTaken":"189ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T04:55:55.268Z"}
+{"level":"info","message":{"body":{"mail":"karthik@gmail.com","password":"Welcome@123"},"method":"POST","status":200,"timeTaken":"62ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T04:56:09.883Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"6ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T04:57:02.893Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T04:57:13.113Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"6ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T04:57:28.201Z"}
+{"level":"error","message":"JWT decoding error: invalid algorithm","timestamp":"2024-11-24T04:57:39.762Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"6ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T04:57:39.766Z"}
+{"level":"error","message":"JWT decoding error: invalid algorithm","timestamp":"2024-11-24T04:58:00.959Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"8ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T04:58:00.965Z"}
+{"level":"error","message":"JWT decoding error: invalid algorithm","timestamp":"2024-11-24T04:58:10.403Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"12ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T04:58:10.413Z"}
+{"level":"error","message":"JWT decoding error: invalid algorithm","timestamp":"2024-11-24T05:00:06.348Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"12ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:00:06.358Z"}
+{"level":"info","message":{"body":{"mail":"karthik@gmail.com","password":"Welcome@123"},"method":"POST","status":200,"timeTaken":"131ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T05:00:13.231Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T05:00:30.968Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"10ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:00:30.977Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:00:41.098Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"6ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:00:51.230Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:01:15.131Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T05:01:19.670Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"45ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:01:19.712Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T05:02:37.697Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"43ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:02:37.737Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T05:02:57.696Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"88ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:02:57.781Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T05:06:09.205Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"44ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:06:09.245Z"}
+{"level":"info","message":{"body":{"mail":"karthik@gmail.com","name":"Karthikeyan D","password":"Karthik@123","phone":"1234567890"},"method":"POST","status":400,"timeTaken":"46ms","url":"/api/employees","user":"Unknown User"},"timestamp":"2024-11-24T05:08:21.967Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:10:18.999Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:10:19.001Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:10:21.248Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:10:21.250Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:10:25.576Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:10:25.577Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:11:24.681Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:11:24.684Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:17:58.865Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:17:58.867Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:19:25.772Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:22:31.980Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:22:31.982Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:23:47.729Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:23:57.822Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:23:57.823Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:24:20.403Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:24:23.122Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:24:23.123Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:24:38.004Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:24:38.006Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:24:59.722Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:25:27.718Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:28:06.045Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:28:06.048Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:28:15.740Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:29:37.741Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:29:37.742Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:31:11.801Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:31:11.802Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:35:01.498Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:35:01.499Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:35:17.925Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:35:17.927Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:37:48.063Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:37:48.065Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:42:03.196Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:42:03.197Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:44:02.308Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:44:02.309Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"0ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:44:23.084Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:44:23.086Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:48:35.708Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:48:35.709Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:48:35.710Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:48:35.711Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:49:05.404Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:49:05.406Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:49:05.407Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:49:05.408Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"7ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:51:00.462Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"5ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:51:00.476Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:52:10.702Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:52:10.704Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:52:10.707Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:52:10.709Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:52:33.474Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:52:33.477Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:52:33.481Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:52:33.483Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:52:50.232Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:52:50.234Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:52:50.236Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:52:50.238Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:56:27.725Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:56:27.727Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:56:27.729Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:56:27.731Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:56:41.466Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:56:41.468Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:56:42.917Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:56:42.920Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:56:42.922Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:56:42.925Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:56:58.738Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:56:58.741Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:57:01.723Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:57:01.725Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T05:57:28.587Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T05:57:28.589Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"13ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:00:32.119Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:00:32.127Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:00:32.131Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:00:32.134Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:02:22.205Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:02:22.208Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:02:22.212Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:02:22.216Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:02:24.857Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:02:24.861Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:02:24.864Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:02:24.867Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:02:37.858Z"}
+{"level":"info","message":{"body":{},"method":"POST","status":401,"timeTaken":"4ms","url":"/api/gift/upload","user":"Unknown User"},"timestamp":"2024-11-24T06:02:37.862Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:02:40.881Z"}
+{"level":"info","message":{"body":{},"method":"POST","status":401,"timeTaken":"2ms","url":"/api/gift/upload","user":"Unknown User"},"timestamp":"2024-11-24T06:02:40.883Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:03:45.721Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:03:45.724Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:03:49.712Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:03:49.714Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:04:30.541Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:04:30.545Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:04:30.547Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:04:30.549Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:04:36.927Z"}
+{"level":"info","message":{"body":{},"method":"POST","status":401,"timeTaken":"3ms","url":"/api/gift/upload","user":"Unknown User"},"timestamp":"2024-11-24T06:04:36.929Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:05:05.722Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:05:05.724Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:05:20.713Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:05:20.715Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:05:26.746Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:05:26.748Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:05:26.751Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:05:26.752Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:05:40.119Z"}
+{"level":"info","message":{"body":{},"method":"POST","status":401,"timeTaken":"1ms","url":"/api/gift/upload","user":"Unknown User"},"timestamp":"2024-11-24T06:05:40.120Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:07:46.737Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:07:46.739Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:08:19.733Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:08:19.735Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:08:30.942Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:08:30.944Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:08:30.946Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:08:30.948Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:11:15.062Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:11:15.065Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:11:15.068Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:11:15.070Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:17:13.353Z"}
+{"level":"info","message":{"body":{"mail":"spencer.allen@acme.com","password":"Welcome@123"},"method":"POST","status":200,"timeTaken":"309ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T06:17:13.660Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"5ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:17:20.197Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:17:20.202Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:17:20.206Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:17:20.210Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:17:32.734Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:17:32.738Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:17:32.744Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:17:32.749Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:19:36.038Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:19:36.042Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:19:36.046Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:19:36.049Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:20:19.726Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"1ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:20:19.729Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:20:22.719Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/null","user":"Unknown User"},"timestamp":"2024-11-24T06:20:22.721Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:20:33.644Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"12ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:20:33.651Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:20:33.653Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:21:41.751Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":304,"timeTaken":"32ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:21:41.775Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:21:41.778Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:21:41.791Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:23:38.104Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":304,"timeTaken":"24ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:23:38.119Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:23:38.122Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":304,"timeTaken":"6ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:23:38.127Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:23:40.413Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"87ms","url":"/api/gift/2024","user":"Unknown User"},"timestamp":"2024-11-24T06:23:40.498Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:23:44.058Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":200,"timeTaken":"74ms","url":"/api/gift/2023","user":"Unknown User"},"timestamp":"2024-11-24T06:23:44.130Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:23:45.903Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":304,"timeTaken":"12ms","url":"/api/gift/2024","user":"Unknown User"},"timestamp":"2024-11-24T06:23:45.913Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:23:56.058Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:23:56.062Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:23:56.065Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"5ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:23:56.070Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:24:01.398Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:24:01.400Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:24:01.401Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:24:01.404Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:24:19.727Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:24:19.730Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:24:25.723Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:24:25.725Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:24:47.535Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:24:47.537Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:24:47.540Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:24:47.544Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:25:34.980Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"18ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:25:34.997Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:25:35.004Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:25:35.008Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:26:12.308Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:26:12.312Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:26:13.708Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:26:13.712Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:26:13.714Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:26:13.717Z"}
+{"level":"error","message":"JWT decoding error: jwt malformed","timestamp":"2024-11-24T06:26:34.728Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"4ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:26:34.732Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:28:10.745Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:28:12.780Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:31:22.596Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:31:22.601Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"2ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:31:25.571Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":401,"timeTaken":"3ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:31:25.575Z"}
+{"level":"info","message":{"body":{"headers":{},"mail":"@","password":""},"method":"POST","status":400,"timeTaken":"13ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T06:31:38.984Z"}
+{"level":"info","message":{"body":{"headers":{},"mail":"@","password":""},"method":"POST","status":400,"timeTaken":"4ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T06:31:40.603Z"}
+{"level":"info","message":{"body":{"headers":{},"mail":"@","password":""},"method":"POST","status":400,"timeTaken":"3ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T06:31:44.359Z"}
+{"level":"info","message":{"body":{"mail":"spencer.allen@acme.com","password":"Welcome@123"},"method":"POST","status":200,"timeTaken":"233ms","url":"/api/auth/login","user":"Unknown User"},"timestamp":"2024-11-24T06:32:22.436Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:32:24.573Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":304,"timeTaken":"15ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:32:24.582Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:32:24.585Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":304,"timeTaken":"8ms","url":"/api/gift/availableYears","user":"Unknown User"},"timestamp":"2024-11-24T06:32:24.591Z"}
+{"level":"error","message":"JWT decoding error: invalid signature","timestamp":"2024-11-24T06:32:24.638Z"}
+{"level":"info","message":{"body":{},"method":"GET","status":304,"timeTaken":"87ms","url":"/api/gift/2024","user":"Unknown User"},"timestamp":"2024-11-24T06:32:24.723Z"}

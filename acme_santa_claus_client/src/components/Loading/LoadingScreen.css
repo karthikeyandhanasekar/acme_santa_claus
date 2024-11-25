@@ -1,0 +1,64 @@
+/* Main loading screen layout */
+.loading-screen {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.75); /* Semi-transparent overlay */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Show loading screen when active */
+.loading-screen.active {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Loading spinner container */
+.loading-spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Spinner design and animation */
+.spinner {
+  width: 60px;
+  height: 60px;
+  border: 6px solid #1e88e5; /* Light outer border */
+  border-top-color: #ffffff; /* Opaque color for animation */
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  box-shadow: 0px 0px 15px #1e88e5; /* Subtle shadow for depth */
+}
+
+/* Spinner animation */
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .spinner {
+    width: 50px;
+    height: 50px;
+    border-width: 5px;
+  }
+}
+
+@media (max-width: 400px) {
+  .spinner {
+    width: 40px;
+    height: 40px;
+    border-width: 4px;
+  }
+}
